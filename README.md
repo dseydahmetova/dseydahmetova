@@ -42,11 +42,12 @@ Overall, I am an ambitious and dedicated professional, eager to apply my skills 
 </p>
 <br/>
 -->
+<br/>
 
 ## :computer: Languages and Tools:
-
+<br/>
 <p>
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/JavaScript-darkgreen.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -58,7 +59,7 @@ Overall, I am an ambitious and dedicated professional, eager to apply my skills 
 </p>
 
 <p>
-<div align="left"> 
+<div align="center"> 
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 

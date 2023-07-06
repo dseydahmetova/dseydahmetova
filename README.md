@@ -27,6 +27,7 @@ Driven by my passion for technology, I am committed to continuously improving an
 Overall, I am an ambitious and dedicated professional, eager to apply my skills and knowledge to develop innovative software solutions that positively impact businesses and users worldwide.
 <br/>
 
+<!--
 ## :envelope: Contact Me
 
 <p>
@@ -40,7 +41,7 @@ Overall, I am an ambitious and dedicated professional, eager to apply my skills 
 </div>
 </p>
 <br/>
-
+-->
 
 ## :computer: Languages and Tools:
 

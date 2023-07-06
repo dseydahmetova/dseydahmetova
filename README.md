@@ -59,17 +59,15 @@ Here are some ideas to get you started:
 <br/>
 <p align="left">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dseydahmetova&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dseydahmetova&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dseydahmetova&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dseydahmetova&theme=gruvbox&hide_border=true">		  
   </a>
 </p>
 <br>
 
-<!-- [![Dana's Activity Graph](https://activity-graph.herokuapp.com/graph?username=dseydahmetova&custom_title=Dana's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
-
 <p align="center">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dseydahmetova&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dseydahmetova&theme=gruvbox&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 
@@ -79,10 +77,6 @@ Here are some ideas to get you started:
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
 I am a self-motivated and highly reliable software engineering professional with a strong foundation in programming languages, database management, and problem-solving. With a degree in Information Systems, I have honed my technical skills and developed a passion for creating innovative solutions that drive global business success and enhance user experiences.
-
-Throughout my academic journey, I have gained practical experience in programming languages such as JavaScript, Java, and C, as well as web development technologies like HTML/CSS and Node.js/Express.js. I am well-versed in database management, having worked with MongoDB and MySQL. My coursework has provided me with a solid understanding of software development methodologies, including object-oriented programming and the software development lifecycle.
-
-What sets me apart is my eagerness to leverage my skills and foundational knowledge in programming to contribute to a dynamic software engineering team. I thrive on challenges and enjoy collaborating with diverse teams to deliver high-quality solutions. I am an effective communicator, adept at conveying complex technical concepts to both technical and non-technical stakeholders.
 
 Driven by my passion for technology, I am committed to continuously improving and staying up-to-date with the latest industry trends and advancements. My fluency in English, Russian, and Kazakh allows me to connect with people from diverse backgrounds and contribute effectively in global settings.
 

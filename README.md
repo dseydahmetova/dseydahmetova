@@ -32,11 +32,8 @@ Overall, I am an ambitious and dedicated professional, eager to apply my skills 
 
 <p>
 <div align="left">
-	<a href="https://discord.com/users/982658555125596261" rel="nofollow">
-	 	<img alt="Torrin Leonard's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-	</a>
 	<a href="linkedin.com/in/dana-seidakhmetova-b90842173" rel="nofollow">
-  		<img alt="Torrin Leonard's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="Dana's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
 </div>
 </p>
@@ -63,7 +60,7 @@ Overall, I am an ambitious and dedicated professional, eager to apply my skills 
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Scala-style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Scala-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 </div>
 </p>

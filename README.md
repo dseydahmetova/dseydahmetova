@@ -27,7 +27,7 @@ Driven by my passion for technology, I am committed to continuously improving an
 Overall, I am an ambitious and dedicated professional, eager to apply my skills and knowledge to develop innovative software solutions that positively impact businesses and users worldwide.
 <br/>
 
-<!--
+
 ## :envelope: Contact Me
 
 <p>
@@ -41,8 +41,8 @@ Overall, I am an ambitious and dedicated professional, eager to apply my skills 
 </div>
 </p>
 <br/>
--->
-<br/>
+
+
 
 ## :computer: Languages and Tools:
 <br/>
@@ -63,7 +63,7 @@ Overall, I am an ambitious and dedicated professional, eager to apply my skills 
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Scala-CA719C?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Scala-style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 </div>
 </p>

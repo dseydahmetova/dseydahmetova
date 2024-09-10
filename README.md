@@ -33,7 +33,7 @@ Overall, I am an ambitious and dedicated professional, eager to apply my skills 
 <p>
 <div align="left">
 	<a href="linkedin.com/in/dana-seidakhmetova-b90842173" rel="nofollow">
-  		<img alt="Dana's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="Dana's LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" style="max-width: 100%;">LinkedIn
 	</a>
 </div>
 </p>
@@ -60,7 +60,7 @@ Overall, I am an ambitious and dedicated professional, eager to apply my skills 
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Scala-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Scala-CA719C?style=for-the-badge&logo=scala&logoColor=white">
 
 </div>
 </p>
